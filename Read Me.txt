@@ -1,2 +1,0 @@
-This game is build my me without any help and all the logics are build through brainstorming..
-Any bug found should be reported
